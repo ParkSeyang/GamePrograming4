@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\GamePrograming4 (Data Structure).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|solutionrelative:GamePrograming4 (Data Structure).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Sample.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|solutionrelative:Sample.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Template.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|solutionrelative:Template.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +34,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sample.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Sample.h",
+              "RelativeDocumentMoniker": "Sample.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Sample.h",
+              "RelativeToolTip": "Sample.h",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T07:57:02.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Template.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Template.h",
+              "RelativeDocumentMoniker": "Template.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Template.h",
+              "RelativeToolTip": "Template.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvw4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T07:41:39.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GamePrograming4 (Data Structure).cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\GamePrograming4 (Data Structure).cpp",
-              "RelativeDocumentMoniker": "GamePrograming4 (Data Structure).cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\GamePrograming4 (Data Structure).cpp",
-              "RelativeToolTip": "GamePrograming4 (Data Structure).cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-13T07:07:25.915Z",
               "EditorCaption": ""

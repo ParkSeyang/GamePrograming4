@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch1 Generic Programming\Main.cpp(149,36): warning C4244: '인수': 'double'에서 'T1'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch1 Generic Programming\Main.cpp(149,36): warning C4244:         with
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch1 Generic Programming\Main.cpp(149,36): warning C4244:         [
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch1 Generic Programming\Main.cpp(149,36): warning C4244:             T1=int
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch1 Generic Programming\Main.cpp(149,36): warning C4244:         ]
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch1 Generic Programming\Main.cpp(149,31): warning C4244: '인수': 'double'에서 'T1'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch1 Generic Programming\Main.cpp(149,31): warning C4244:         with
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch1 Generic Programming\Main.cpp(149,31): warning C4244:         [
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch1 Generic Programming\Main.cpp(149,31): warning C4244:             T1=int
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch1 Generic Programming\Main.cpp(149,31): warning C4244:         ]
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch1 Generic Programming\Main.cpp(161,5): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  Ch1 Generic Programming.vcxproj -> C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\GamePrograming4 (Data Structure)\x64\Debug\Ch1 Generic Programming.exe

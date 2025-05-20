@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch3 Vector", "..\Ch3 Vector
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch4 MyVector", "..\Ch4 MyVector\Ch4 MyVector.vcxproj", "{C0A02B8F-D20A-48B1-8C5E-E9156157B31E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch5 STL", "..\Ch5 STL\Ch5 STL.vcxproj", "{AC441A05-D6CF-4C89-B1A7-B5A09E148F79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{C0A02B8F-D20A-48B1-8C5E-E9156157B31E}.Release|x64.Build.0 = Release|x64
 		{C0A02B8F-D20A-48B1-8C5E-E9156157B31E}.Release|x86.ActiveCfg = Release|Win32
 		{C0A02B8F-D20A-48B1-8C5E-E9156157B31E}.Release|x86.Build.0 = Release|Win32
+		{AC441A05-D6CF-4C89-B1A7-B5A09E148F79}.Debug|x64.ActiveCfg = Debug|x64
+		{AC441A05-D6CF-4C89-B1A7-B5A09E148F79}.Debug|x64.Build.0 = Debug|x64
+		{AC441A05-D6CF-4C89-B1A7-B5A09E148F79}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC441A05-D6CF-4C89-B1A7-B5A09E148F79}.Debug|x86.Build.0 = Debug|Win32
+		{AC441A05-D6CF-4C89-B1A7-B5A09E148F79}.Release|x64.ActiveCfg = Release|x64
+		{AC441A05-D6CF-4C89-B1A7-B5A09E148F79}.Release|x64.Build.0 = Release|x64
+		{AC441A05-D6CF-4C89-B1A7-B5A09E148F79}.Release|x86.ActiveCfg = Release|Win32
+		{AC441A05-D6CF-4C89-B1A7-B5A09E148F79}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

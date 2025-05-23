@@ -1,75 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\GamePrograming4 (Data Structure)\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B638662D-84A9-4C1A-80C2-7DA294C4F3E9}|..\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\GameModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6527C0F-A7EC-420E-ADBE-E4C9591AF7FA}|..\\Ch8 enum Vector\\Ch8 enum Vector.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch8 enum Vector\\Ch8 enum Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B638662D-84A9-4C1A-80C2-7DA294C4F3E9}|..\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DropTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\GameModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B638662D-84A9-4C1A-80C2-7DA294C4F3E9}|..\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B638662D-84A9-4C1A-80C2-7DA294C4F3E9}|..\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DataHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC441A05-D6CF-4C89-B1A7-B5A09E148F79}|..\\Ch5 STL\\Ch5 STL.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Algo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC441A05-D6CF-4C89-B1A7-B5A09E148F79}|..\\Ch5 STL\\Ch5 STL.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\MonsterDatabase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{550BF1DA-068E-42B3-974E-0E0F178F120B}|..\\Ch6 TownRPG\\Ch6 TownRPG.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\BattleManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{550BF1DA-068E-42B3-974E-0E0F178F120B}|..\\Ch6 TownRPG\\Ch6 TownRPG.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\Ch6 TownRPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{550BF1DA-068E-42B3-974E-0E0F178F120B}|..\\Ch6 TownRPG\\Ch6 TownRPG.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\GameModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC441A05-D6CF-4C89-B1A7-B5A09E148F79}|..\\Ch5 STL\\Ch5 STL.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\Ch4 MyVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\GamePrograming4 (Data Structure)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\GamePrograming4 (Data Structure)\\Template.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Template.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|solutionrelative:Template.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\GamePrograming4 (Data Structure)\\Sample.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Sample.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{58B12360-F9F5-42D6-B2D1-B2B0F7AB81AC}|GamePrograming4 (Data Structure).vcxproj|solutionrelative:Sample.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F927DBC8-5C4F-4A9D-92B6-CAD82570253E}|..\\Ch1 Generic Programming\\Ch1 Generic Programming.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch1 Generic Programming\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch1 Generic Programming\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\RandomEncount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DropTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\CustomVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch3 Vector\\Ch3 Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DataHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Pokeball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\BattleManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\Ch6 TownRPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\GameModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\ConsoleUtility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\MonsterDatabase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Algo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A02B8F-D20A-48B1-8C5E-E9156157B31E}|..\\Ch4 MyVector\\Ch4 MyVector.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\Ch4 MyVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A02B8F-D20A-48B1-8C5E-E9156157B31E}|..\\Ch4 MyVector\\Ch4 MyVector.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\RandomEncount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A02B8F-D20A-48B1-8C5E-E9156157B31E}|..\\Ch4 MyVector\\Ch4 MyVector.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\CustomVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3476F33-1A71-4949-ADBF-78C0C0C4707C}|..\\Ch3 Vector\\Ch3 Vector.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch3 Vector\\Ch3 Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01450636-22C0-4A92-9BE0-7128EDE1ACDD}|..\\Ch2 ConsoleGame GenericeExample\\Ch2 ConsoleGame GenericeExample.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Pokeball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9FF31E-41CB-44F0-A3F5-93D6F2863A04}|..\\UtilityProject\\UtilityProject.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01450636-22C0-4A92-9BE0-7128EDE1ACDD}|..\\Ch2 ConsoleGame GenericeExample\\Ch2 ConsoleGame GenericeExample.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9FF31E-41CB-44F0-A3F5-93D6F2863A04}|..\\UtilityProject\\UtilityProject.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\ConsoleUtility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,247 +82,254 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch1 Generic Programming\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Ch1 Generic Programming\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch1 Generic Programming\\Main.cpp",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch1 Generic Programming\\Main.cpp",
-              "RelativeToolTip": "..\\Ch1 Generic Programming\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch1 Generic Programming\\Main.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-14T07:03:40.734Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Ch8 enum Vector.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch8 enum Vector\\Ch8 enum Vector.cpp",
+              "RelativeDocumentMoniker": "..\\Ch8 enum Vector\\Ch8 enum Vector.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch8 enum Vector\\Ch8 enum Vector.cpp",
+              "RelativeToolTip": "..\\Ch8 enum Vector\\Ch8 enum Vector.cpp",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAANwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T07:04:10.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DropTable.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DropTable.h",
-              "RelativeDocumentMoniker": "..\\Ch7 DataLoadAndSave\\DropTable.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DropTable.h",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DropTable.h",
-              "RelativeToolTip": "..\\Ch7 DataLoadAndSave\\DropTable.h",
+              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DropTable.h",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-22T07:39:52.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameModel.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\GameModel.h",
-              "RelativeDocumentMoniker": "..\\Ch7 DataLoadAndSave\\GameModel.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\GameModel.h",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\GameModel.h",
-              "RelativeToolTip": "..\\Ch7 DataLoadAndSave\\GameModel.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAACAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\GameModel.h",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-22T07:02:58.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-05-22T07:02:58.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Ch7 DataLoadAndSave.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.cpp",
-              "RelativeDocumentMoniker": "..\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.cpp",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.cpp",
-              "RelativeToolTip": "..\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-22T07:02:08.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "DataHandler.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DataHandler.h",
-              "RelativeDocumentMoniker": "..\\Ch7 DataLoadAndSave\\DataHandler.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DataHandler.h",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DataHandler.h",
-              "RelativeToolTip": "..\\Ch7 DataLoadAndSave\\DataHandler.h",
+              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DataHandler.h",
               "ViewState": "AgIAABkAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-22T08:12:20.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BattleManager.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\BattleManager.h",
-              "RelativeDocumentMoniker": "..\\Ch6 TownRPG\\BattleManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\BattleManager.h",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\BattleManager.h",
-              "RelativeToolTip": "..\\Ch6 TownRPG\\BattleManager.h",
+              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\BattleManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-21T08:31:27.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Ch6 TownRPG.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\Ch6 TownRPG.cpp",
-              "RelativeDocumentMoniker": "..\\Ch6 TownRPG\\Ch6 TownRPG.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\Ch6 TownRPG.cpp",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\Ch6 TownRPG.cpp",
-              "RelativeToolTip": "..\\Ch6 TownRPG\\Ch6 TownRPG.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\Ch6 TownRPG.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-21T08:11:28.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "GameModel.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\GameModel.h",
-              "RelativeDocumentMoniker": "..\\Ch6 TownRPG\\GameModel.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\GameModel.h",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\GameModel.h",
-              "RelativeToolTip": "..\\Ch6 TownRPG\\GameModel.h",
+              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\GameModel.h",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-21T08:12:31.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\Ch5 STL\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Main.cpp",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Main.cpp",
-              "RelativeToolTip": "..\\Ch5 STL\\Main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Main.cpp",
               "ViewState": "AgIAAJcAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-20T07:02:05.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "MonsterDatabase.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\MonsterDatabase.h",
-              "RelativeDocumentMoniker": "..\\Ch5 STL\\MonsterDatabase.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\MonsterDatabase.h",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\MonsterDatabase.h",
-              "RelativeToolTip": "..\\Ch5 STL\\MonsterDatabase.h",
+              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\MonsterDatabase.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-20T08:43:06.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Algo.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Algo.h",
-              "RelativeDocumentMoniker": "..\\Ch5 STL\\Algo.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Algo.h",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Algo.h",
-              "RelativeToolTip": "..\\Ch5 STL\\Algo.h",
+              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Algo.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-20T08:05:18.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Ch4 MyVector.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\Ch4 MyVector.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\Ch4 MyVector.cpp",
+              "RelativeDocumentMoniker": "..\\Ch4 MyVector\\Ch4 MyVector.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\Ch4 MyVector.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\Ch4 MyVector.cpp",
+              "RelativeToolTip": "..\\Ch4 MyVector\\Ch4 MyVector.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-19T07:02:52.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "RandomEncount.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\RandomEncount.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\RandomEncount.h",
+              "RelativeDocumentMoniker": "..\\Ch4 MyVector\\RandomEncount.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\RandomEncount.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\RandomEncount.h",
+              "RelativeToolTip": "..\\Ch4 MyVector\\RandomEncount.h",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAFMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-19T08:15:45.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CustomVector.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\CustomVector.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\CustomVector.h",
+              "RelativeDocumentMoniker": "..\\Ch4 MyVector\\CustomVector.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\CustomVector.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\CustomVector.h",
+              "RelativeToolTip": "..\\Ch4 MyVector\\CustomVector.h",
               "ViewState": "AgIAAIIAAAAAAAAAAAAqwJMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-19T07:04:43.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Ch3 Vector.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch3 Vector\\Ch3 Vector.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\Ch3 Vector\\Ch3 Vector.cpp",
+              "RelativeDocumentMoniker": "..\\Ch3 Vector\\Ch3 Vector.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch3 Vector\\Ch3 Vector.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\Ch3 Vector\\Ch3 Vector.cpp",
+              "RelativeToolTip": "..\\Ch3 Vector\\Ch3 Vector.cpp",
               "ViewState": "AgIAAGYAAAAAAAAAAAAkwHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-16T07:07:56.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Pokeball.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Pokeball.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Pokeball.h",
+              "RelativeDocumentMoniker": "..\\Ch2 ConsoleGame GenericeExample\\Pokeball.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Pokeball.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Pokeball.h",
+              "RelativeToolTip": "..\\Ch2 ConsoleGame GenericeExample\\Pokeball.h",
               "ViewState": "AgIAAAYAAAAAAAAAAADwvxMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-15T08:05:32.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\UtilityProject\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\Main.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\Main.cpp",
+              "RelativeToolTip": "..\\UtilityProject\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-15T07:05:13.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Main.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\Ch2 ConsoleGame GenericeExample\\Main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Main.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Main.cpp",
+              "RelativeToolTip": "..\\Ch2 ConsoleGame GenericeExample\\Main.cpp",
               "ViewState": "AgIAAIMAAAAAAAAAAAAkwJ0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-15T07:04:48.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ConsoleUtility.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\ConsoleUtility.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\ConsoleUtility.h",
+              "RelativeDocumentMoniker": "..\\UtilityProject\\ConsoleUtility.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\ConsoleUtility.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\ConsoleUtility.h",
+              "RelativeToolTip": "..\\UtilityProject\\ConsoleUtility.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-15T07:08:21.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "Sample.h",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\GamePrograming4 (Data Structure)\\Sample.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Sample.h",
               "RelativeDocumentMoniker": "Sample.h",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\GamePrograming4 (Data Structure)\\Sample.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Sample.h",
               "RelativeToolTip": "Sample.h",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -327,11 +337,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "Template.h",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\GamePrograming4 (Data Structure)\\Template.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Template.h",
               "RelativeDocumentMoniker": "Template.h",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\GamePrograming4 (Data Structure)\\Template.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Template.h",
               "RelativeToolTip": "Template.h",
               "ViewState": "AgIAAAkAAAAAAAAAAADwvw4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -339,11 +349,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\GamePrograming4 (Data Structure)\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\GamePrograming4 (Data Structure)\\Main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

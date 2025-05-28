@@ -1,0 +1,6 @@
+﻿  Ch11 STL Containers.cpp
+C:\Users\Administrator\Desktop\GamePrograming4\Ch11 STL Containers\Ch11 STL Containers.cpp(337,8): warning C4834: [[nodiscard]] 특성이 포함된 함수의 반환 값을 버리는 중입니다.
+C:\Users\Administrator\Desktop\GamePrograming4\Ch11 STL Containers\Ch11 STL Containers.cpp(361,8): warning C4834: [[nodiscard]] 특성이 포함된 함수의 반환 값을 버리는 중입니다.
+C:\Users\Administrator\Desktop\GamePrograming4\Ch11 STL Containers\Ch11 STL Containers.cpp(384,8): warning C4834: [[nodiscard]] 특성이 포함된 함수의 반환 값을 버리는 중입니다.
+C:\Users\Administrator\Desktop\GamePrograming4\Ch11 STL Containers\Ch11 STL Containers.cpp(409,8): warning C4834: [[nodiscard]] 특성이 포함된 함수의 반환 값을 버리는 중입니다.
+  Ch11 STL Containers.vcxproj -> C:\Users\Administrator\Desktop\GamePrograming4\GamePrograming4 (Data Structure)\x64\Debug\Ch11 STL Containers.exe

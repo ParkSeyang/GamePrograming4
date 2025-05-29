@@ -1,0 +1,5 @@
+﻿  Ch12 Associated Container.cpp
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch12 Associated Container\Ch12 Associated Container.cpp(199,5): error C2535: 'Shop::Shop(void)': 멤버 함수를 이미 정의했거나 선언했습니다.
+      C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\수업용 코딩파일\자료구조(C++)\GamePrograming4\Ch12 Associated Container\Ch12 Associated Container.cpp(198,5):
+      'Shop::Shop' 선언을 참조하십시오.
+  

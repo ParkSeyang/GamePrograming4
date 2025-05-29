@@ -106,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -121,6 +121,10 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Ch12 Associated Container.cpp",
@@ -128,14 +132,10 @@
               "RelativeDocumentMoniker": "..\\Ch12 Associated Container\\Ch12 Associated Container.cpp",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch12 Associated Container\\Ch12 Associated Container.cpp",
               "RelativeToolTip": "..\\Ch12 Associated Container\\Ch12 Associated Container.cpp",
-              "ViewState": "AgIAAOEAAAAAAAAAAAAUwO4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-29T07:23:43.96Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",

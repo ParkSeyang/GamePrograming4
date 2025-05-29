@@ -126,7 +126,7 @@ void Test3()
 
 #pragma endregion
 
-#pragma region Map 사용하기
+#pragma region map 사용하기
 
 void Test4()
 {

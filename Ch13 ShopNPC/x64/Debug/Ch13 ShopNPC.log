@@ -1,0 +1,3 @@
+﻿  Ch13 ShopNPC.cpp
+C:\Users\Administrator\Desktop\GamePrograming4\Ch13 ShopNPC\Ch13 ShopNPC.cpp(76,13): warning C4101: 'price' :참조되지 않은 지역 변수입니다.
+  Ch13 ShopNPC.vcxproj -> C:\Users\Administrator\Desktop\GamePrograming4\GamePrograming4 (Data Structure)\x64\Debug\Ch13 ShopNPC.exe

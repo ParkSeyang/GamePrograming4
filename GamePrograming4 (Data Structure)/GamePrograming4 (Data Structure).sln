@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch11 STL Containers", "..\C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch12 Associated Container", "..\Ch12 Associated Container\Ch12 Associated Container.vcxproj", "{20FAD93D-53B7-4412-ADD1-953CCE407FC6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch13 ShopNPC", "..\Ch13 ShopNPC\Ch13 ShopNPC.vcxproj", "{C44F6429-99F0-41DB-9600-2D6F493CF18A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{20FAD93D-53B7-4412-ADD1-953CCE407FC6}.Release|x64.Build.0 = Release|x64
 		{20FAD93D-53B7-4412-ADD1-953CCE407FC6}.Release|x86.ActiveCfg = Release|Win32
 		{20FAD93D-53B7-4412-ADD1-953CCE407FC6}.Release|x86.Build.0 = Release|Win32
+		{C44F6429-99F0-41DB-9600-2D6F493CF18A}.Debug|x64.ActiveCfg = Debug|x64
+		{C44F6429-99F0-41DB-9600-2D6F493CF18A}.Debug|x64.Build.0 = Debug|x64
+		{C44F6429-99F0-41DB-9600-2D6F493CF18A}.Debug|x86.ActiveCfg = Debug|Win32
+		{C44F6429-99F0-41DB-9600-2D6F493CF18A}.Debug|x86.Build.0 = Debug|Win32
+		{C44F6429-99F0-41DB-9600-2D6F493CF18A}.Release|x64.ActiveCfg = Release|x64
+		{C44F6429-99F0-41DB-9600-2D6F493CF18A}.Release|x64.Build.0 = Release|x64
+		{C44F6429-99F0-41DB-9600-2D6F493CF18A}.Release|x86.ActiveCfg = Release|Win32
+		{C44F6429-99F0-41DB-9600-2D6F493CF18A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{305ABC80-BFF9-45EF-92CE-F7115587400E}|..\\Ch14 Hash\\Ch14 Hash.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch14 Hash\\Ch14 Hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C44F6429-99F0-41DB-9600-2D6F493CF18A}|..\\Ch13 ShopNPC\\Ch13 ShopNPC.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch13 ShopNPC\\Ch13 ShopNPC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -112,11 +115,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch1 Generic Programming\\Main.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch1 Generic Programming\\Main.cpp",
@@ -128,7 +131,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Ch14 Hash.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch14 Hash\\Ch14 Hash.cpp",
+              "RelativeDocumentMoniker": "..\\Ch14 Hash\\Ch14 Hash.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch14 Hash\\Ch14 Hash.cpp",
+              "RelativeToolTip": "..\\Ch14 Hash\\Ch14 Hash.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T07:01:52.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "iomanip",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\iomanip",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\iomanip",
@@ -136,25 +152,24 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\iomanip",
               "ViewState": "AgIAAA0AAAAAAAAAAADgvx0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-30T08:07:41.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T08:07:41.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Ch13 ShopNPC.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch13 ShopNPC\\Ch13 ShopNPC.cpp",
               "RelativeDocumentMoniker": "..\\Ch13 ShopNPC\\Ch13 ShopNPC.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch13 ShopNPC\\Ch13 ShopNPC.cpp",
               "RelativeToolTip": "..\\Ch13 ShopNPC\\Ch13 ShopNPC.cpp",
-              "ViewState": "AgIAAMUAAAAAAAAAAAAAAPUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAAAEIBAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-30T07:02:40.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "FP2.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch10 Deque \u0026 Function Pointer Conjugation\\FP2.h",
               "RelativeDocumentMoniker": "..\\Ch10 Deque \u0026 Function Pointer Conjugation\\FP2.h",
@@ -166,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Ch10 Deque \u0026 Function Pointer Conjugation.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch10 Deque \u0026 Function Pointer Conjugation\\Ch10 Deque \u0026 Function Pointer Conjugation.cpp",
               "RelativeDocumentMoniker": "..\\Ch10 Deque \u0026 Function Pointer Conjugation\\Ch10 Deque \u0026 Function Pointer Conjugation.cpp",
@@ -178,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TimeCheck.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch9 Sequence Container\\TimeCheck.h",
               "RelativeDocumentMoniker": "..\\Ch9 Sequence Container\\TimeCheck.h",
@@ -190,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "GameModel.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\GameModel.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\GameModel.h",
@@ -201,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Ch7 DataLoadAndSave.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\Ch7 DataLoadAndSave.cpp",
@@ -213,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ConsoleUtility.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\ConsoleUtility.h",
               "RelativeDocumentMoniker": "..\\UtilityProject\\ConsoleUtility.h",
@@ -221,12 +236,11 @@
               "RelativeToolTip": "..\\UtilityProject\\ConsoleUtility.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-15T07:08:21.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T07:08:21.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\UtilityProject\\Main.cpp",
               "RelativeDocumentMoniker": "..\\UtilityProject\\Main.cpp",
@@ -234,12 +248,11 @@
               "RelativeToolTip": "..\\UtilityProject\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-15T07:05:13.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T07:05:13.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Ch3 Vector.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch3 Vector\\Ch3 Vector.cpp",
               "RelativeDocumentMoniker": "..\\Ch3 Vector\\Ch3 Vector.cpp",
@@ -247,12 +260,11 @@
               "RelativeToolTip": "..\\Ch3 Vector\\Ch3 Vector.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-16T07:07:56.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T07:07:56.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Ch12 Associated Container.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch12 Associated Container\\Ch12 Associated Container.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch12 Associated Container\\Ch12 Associated Container.cpp",
@@ -263,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Ch11 STL Containers.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch11 STL Containers\\Ch11 STL Containers.cpp",
               "RelativeDocumentMoniker": "..\\Ch11 STL Containers\\Ch11 STL Containers.cpp",
@@ -274,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "DataHandler.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DataHandler.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DataHandler.h",
@@ -286,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "DequeTest.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch10 Deque \u0026 Function Pointer Conjugation\\DequeTest.h",
               "RelativeDocumentMoniker": "..\\Ch10 Deque \u0026 Function Pointer Conjugation\\DequeTest.h",
@@ -298,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "DropTable.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DropTable.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch7 DataLoadAndSave\\DropTable.h",
@@ -310,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Ch9 Sequence Container.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch9 Sequence Container\\Ch9 Sequence Container.cpp",
               "RelativeDocumentMoniker": "..\\Ch9 Sequence Container\\Ch9 Sequence Container.cpp",
@@ -322,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "FunctionPointer.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch9 Sequence Container\\FunctionPointer.h",
               "RelativeDocumentMoniker": "..\\Ch9 Sequence Container\\FunctionPointer.h",
@@ -334,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
@@ -346,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Ch8 enum Vector.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch8 enum Vector\\Ch8 enum Vector.cpp",
               "RelativeDocumentMoniker": "..\\Ch8 enum Vector\\Ch8 enum Vector.cpp",
@@ -358,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "BattleManager.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\BattleManager.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\BattleManager.h",
@@ -370,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Ch6 TownRPG.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\Ch6 TownRPG.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\Ch6 TownRPG.cpp",
@@ -382,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "GameModel.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\GameModel.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch6 TownRPG\\GameModel.h",
@@ -394,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Main.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Main.cpp",
@@ -406,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "MonsterDatabase.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\MonsterDatabase.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\MonsterDatabase.h",
@@ -418,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Algo.h",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Algo.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC218\uC5C5\uC6A9 \uCF54\uB529\uD30C\uC77C\\\uC790\uB8CC\uAD6C\uC870(C\u002B\u002B)\\GamePrograming4\\Ch5 STL\\Algo.h",
@@ -430,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Ch4 MyVector.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\Ch4 MyVector.cpp",
               "RelativeDocumentMoniker": "..\\Ch4 MyVector\\Ch4 MyVector.cpp",
@@ -441,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "RandomEncount.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\RandomEncount.h",
               "RelativeDocumentMoniker": "..\\Ch4 MyVector\\RandomEncount.h",
@@ -453,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "CustomVector.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch4 MyVector\\CustomVector.h",
               "RelativeDocumentMoniker": "..\\Ch4 MyVector\\CustomVector.h",
@@ -465,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Pokeball.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Pokeball.h",
               "RelativeDocumentMoniker": "..\\Ch2 ConsoleGame GenericeExample\\Pokeball.h",
@@ -477,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\Ch2 ConsoleGame GenericeExample\\Main.cpp",
               "RelativeDocumentMoniker": "..\\Ch2 ConsoleGame GenericeExample\\Main.cpp",
@@ -489,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Sample.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Sample.h",
               "RelativeDocumentMoniker": "Sample.h",
@@ -501,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Template.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming4\\GamePrograming4 (Data Structure)\\Template.h",
               "RelativeDocumentMoniker": "Template.h",
